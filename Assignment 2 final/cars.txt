@@ -1,0 +1,30 @@
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Honda      red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Kia        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy      red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Bentley    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+Lambo 	   neon	  SPORTS GAS_ENGINE	  8.1  433 AWD 423000
+Mercedes   matteBlack SPORTS GAS_ENGINE   8.9  455 AWD 75000
+Audi  matteBlack    SPORTS   GAS_ENGINE                8.4     500  AWD 600000
+
+Ferrari            red                    SPORTS  GAS_ENGINE                8.0     400   2WD    150000
+
+RangeRover   white               SEDAN  ELECTRIC_MOTOR        9.4    550    AWD 70,000    35
+
+Mazda            blue                SEDAN  GAS_ENGINE                 8.7    600    2WD 40000
+
+RollsRoyce     blue LUXURY  GAS_ENGINE                9.27    400   2WD 170000
+
+Lexus              orange             LUXURY   ELECTRIC_MOTOR      8.6      450    2WD 60000   30
+
+Bajaj               green                SPORTS    GAS_ENGINE               7.2     150   AWD    10000   
+
+Mitsubishi       grey                 SEDAN       GAS_ENGINE             8.5        400   AWD    50000
+
+MiniCooper     pink                LUXURY     GAS_ENGINE              8          450    2WD     45000
+
+Jeep                black              SEDAN        GAS_ENGINE             7.8       500     4WD     40000
